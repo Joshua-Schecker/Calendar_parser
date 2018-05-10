@@ -1,5 +1,7 @@
 # Calendar_parser
 
+Parses a .ics file and outputs a .csv file with columns for date, duration, participants, and description of the event.
+
 -Run Command:   java CalendarParse "path of .ics file"
 
 - output .csv file example: 
